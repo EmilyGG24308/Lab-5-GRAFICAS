@@ -1,0 +1,17 @@
+# Capturas sueltas que se guardan con la tecla C (las de la entrega están en docs/capturas)
+/capturas/
+
+# Productos de compilación
+build/
+cmake-build-*/
+out/
+*.exe
+*.obj.d
+*.o
+
+# IDE / sistema
+.vs/
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store
